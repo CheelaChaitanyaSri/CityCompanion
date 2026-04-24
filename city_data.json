@@ -1,0 +1,65 @@
+{
+  "hospitals": [
+    {
+      "name": "City Care Hospital",
+      "address": "Main Road, Kukatpally",
+      "contact": "9876543210",
+      "map_link": "https://maps.google.com/?q=City+Care+Hospital+Kukatpally"
+    },
+    {
+      "name": "Sunshine Hospital",
+      "address": "Hi-Tech City",
+      "contact": "9123456780",
+      "map_link": "https://maps.google.com/?q=Sunshine+Hospital+Hi-Tech+City"
+    }
+  ],
+  "police_stations": [
+    {
+      "name": "Kukatpally Police Station",
+      "address": "KPHB Colony",
+      "contact": "100",
+      "map_link": "https://maps.google.com/?q=Kukatpally+Police+Station"
+    }
+  ],
+  "city_rules": [
+    "Separate dry and wet waste",
+    "Follow traffic signals strictly",
+    "No loud noise after 10 PM"
+  ],
+  "transport_info": [
+    "Buses run from 6 AM to 10 PM",
+    "Metro available from 7 AM to 11 PM",
+    "Auto-rickshaws are available 24/7 can also use ride-sharing apps like Rapido ,Uber and Ola"
+  ],
+  "transport_routes": [
+    {
+      "from": "Kukatpally",
+      "to": "Hi-Tech City",
+      "bus_numbers": ["10K", "219", "19H"]
+    },
+    {
+      "from": "Kukatpally",
+      "to": "Ameerpet",
+      "bus_numbers": ["127K", "225"]
+    }
+  ],
+  "helplines": [
+    {
+      "service": "Municipality Queries",
+      "number": "1800-123-4567"
+    },
+    {
+      "service": "Police Helpline",
+      "number": "100"
+    },
+    {
+      "service": "Ambulance",
+      "number": "108"
+    }
+  ],
+  "faqs": {
+    "garbage": "Garbage is collected every morning. Separate dry and wet waste.",
+    "registration": "Visit local municipal office with ID proof for registration.",
+    "transport": "You can use buses and metro for easy travel."
+  }
+}
