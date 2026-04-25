@@ -1,0 +1,2 @@
+INFO:root:[2026-04-24 19:09:18] Misuse detected – Check out this link http://spam.com
+INFO:root:[2026-04-24 19:09:18] Misuse detected – Win big prizes click here

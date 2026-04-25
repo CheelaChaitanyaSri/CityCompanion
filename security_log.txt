@@ -1,0 +1,7 @@
+[2026-04-24 15:57:18] Rental Listing – Score: 70
+[2026-04-24 15:58:24] Rental Listing – Score: 70
+[2026-04-24 15:59:15] Rental Listing – Score: 70
+[2026-04-24 16:17:00] Rental Listing – Score: 70
+[2026-04-24 18:59:29] Rental Listing – Score: 70
+[2026-04-24 19:06:07] house – Score: 70
+[2026-04-24 20:27:42] car – Score: 80
