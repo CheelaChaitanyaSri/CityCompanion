@@ -1,2 +1,6 @@
 INFO:root:[2026-04-24 19:09:18] Misuse detected – Check out this link http://spam.com
 INFO:root:[2026-04-24 19:09:18] Misuse detected – Win big prizes click here
+INFO:root:[2026-04-24 20:46:10] Misuse detected – click the below link "https//:google.com"
+INFO:root:[2026-04-24 20:46:10] Misuse detected – click the below link "https//:google.com"
+INFO:root:[2026-04-24 20:57:31] Misuse detected – click on the below link "www.xyz.com" and get your own house @12000.
+INFO:root:[2026-04-24 20:57:31] Misuse detected – click on the below link "www.xyz.com" and get your own house @12000.
