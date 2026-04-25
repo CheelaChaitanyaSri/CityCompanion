@@ -46,8 +46,8 @@ JSON (for data storage)
 Command Line Interface (CLI)
 
 # How to Run
-</> Bash
-python your_file_name.py
+</> Bash 
+python main.py
 ~ Example Queries
 "nearest hospital"
 "bus to hi-tech city"
